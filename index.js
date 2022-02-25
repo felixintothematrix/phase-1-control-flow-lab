@@ -1,11 +1,19 @@
-function scuberGreetingForFeet(){
-  // Write your code here!
-}
+function scuberGreetingForFeet(placeHolder){
 
-function ternaryCheckCity(){
-  // Write your code here!
-}
+if (placeHolder <=  401){
 
-function switchOnCharmFromTip(){
-  // Write your code here!
+  return  'This one is on me!'
+
 }
+else if(placeHolder > 2000) {
+return `I will gladly take your thirty bucks.`
+
+
+
+}}
+
+//function ternaryCheckCity(){
+  // Write your code here!
+
+//function switchOnCharmFromTip()
+  // Write your code here!/
